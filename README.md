@@ -1,6 +1,6 @@
 # cevimail.github.io
 
-Visit: https://swisstreehouse.github.io/
+Visit: https://swisstreehouse.ch
 
 ## Build the page locally:
 
