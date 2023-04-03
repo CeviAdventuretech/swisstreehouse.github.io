@@ -7,7 +7,7 @@ layout: default
 
 <h1>Welcome</h1>
 
-The Swiss Treehouse was built at Roihu2016 (the Finnjamboree 2016) in Finland. The participation in the camp as well as the construction of the treehouse was organized by <a href="adventuretech.info">Adventuretech</a>.
+The Swiss Treehouse was built at Roihu2016 (the Finnjamboree 2016) in Finland. The participation in the camp as well as the construction of the treehouse was organized by <a href="https://adventuretech.org">Adventuretech</a>.
 
 In the end the treehouse looked like this:
 
